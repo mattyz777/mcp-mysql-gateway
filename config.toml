@@ -1,0 +1,11 @@
+[mysql]
+host = "8.219.197.129"
+port = 3306
+user = "db_hyper_pay_index_test_rw"
+password = "bYZRraPC#A9oOHX0"
+database = "information_schema"
+max_connections = 10
+
+[users]
+"matt.yu" = "123456"
+"ape.li" = "asdkljf"
