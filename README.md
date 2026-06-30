@@ -37,7 +37,7 @@ docker run -d \
   -v ~/config.toml:/app/config.toml \
   -v ~/logs:/app/logs \
   -e LOG_DIR=/app/logs \
-  ghcr.io/mattyz777/mcp-gateway-mysql:latest
+  ghcr.io/mattyz777/mcp-mysql-gateway:latest
 ```
 
 
